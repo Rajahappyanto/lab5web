@@ -47,12 +47,25 @@ code and output
 
 7. Pengkondisian if-else
 
+![f10](foto/f10.png)
+
+
 8. Penggunaan Operator switch Untuk seleksi kondisi
+
+
+![11](foto/11.png)
 
 9. form input
 
+
+![12](foto/12.png)
+
 10. Form button
 
+![13](foto/13.png)
+
 11. Dom Menggunaka Chech Box
+
+![f14](foto/14.png)
 
 ## 3. Validasi Code html
