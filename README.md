@@ -62,7 +62,7 @@ code and output
 
 10. Form button
 
-![13](f13.png)
+![13](foto/f13.png)
 
 11. Dom Menggunaka Chech Box
 
@@ -70,4 +70,4 @@ code and output
 
 ## 3. Validasi Code html
 
-![f15](foto/f15.png)
+![f15](f15.png)
