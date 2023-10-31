@@ -53,19 +53,19 @@ code and output
 8. Penggunaan Operator switch Untuk seleksi kondisi
 
 
-![11](foto/11.png)
+![11](foto/f11.png)
 
 9. form input
 
 
-![12](foto/12.png)
+![12](foto/f12.png)
 
 10. Form button
 
-![13](foto/13.png)
+![13](foto/f13.png)
 
 11. Dom Menggunaka Chech Box
 
-![f14](foto/14.png)
+![f14](foto/f14.png)
 
 ## 3. Validasi Code html
